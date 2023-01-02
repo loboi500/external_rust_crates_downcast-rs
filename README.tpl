@@ -1,13 +1,3 @@
-{{readme}}
-
-## License
-
-Copyright 2020, Ashish Myles (maintainer) and contributors.
-This software is dual-licensed under the [MIT](LICENSE-MIT) and
-[Apache 2.0](LICENSE-APACHE) licenses.
-
-### Contribution
-
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you, as defined in the Apache-2.0 license, shall be
-dual licensed as above, without any additional terms or conditions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe63f3603c7c1d7c700904cfd69a78474c5eee4da6e9e82d673ef879b23e80a2
+size 435

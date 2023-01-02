@@ -1,16 +1,3 @@
-[package]
-name = "downcast-rs"
-version = "1.2.0"
-authors = ["Ashish Myles <marcianx@gmail.com>", "Runji Wang <wangrunji0408@163.com>"]
-repository = "https://github.com/marcianx/downcast-rs"
-description = """
-Trait object downcasting support using only safe Rust. It supports type
-parameters, associated types, and type constraints.
-"""
-readme = "README.md"
-keywords = ["downcast", "any", "trait", "associated", "no_std"]
-license = "MIT/Apache-2.0"
-
-[features]
-default = ["std"]
-std = []
+version https://git-lfs.github.com/spec/v1
+oid sha256:47989cd7b46bf78c0a4a7b8af28094145d2d6d6fde389ff27aa427191394ac06
+size 487
